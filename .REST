@@ -1,1 +1,9 @@
-GET https://localhost::9000/
+GET http://localhost:8080/menu
+
+###
+
+GET http://localhost:8080/menu/3
+
+###
+
+GET http://localhost:8080/principales
